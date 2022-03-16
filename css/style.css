@@ -1,0 +1,45 @@
+body{
+    width: 100%;
+    background-color: #AAAAAA;
+}
+header{
+    text-align: center;
+}
+h1{
+    font-size: 30px;
+    color: #d80a0a;
+    background-color: black;
+}
+img{
+    height: 350px;
+    margin: 0 auto;
+    text-align: center;
+
+}
+h2{
+    font-size: 25px;
+    color: #bd0000 ;
+    background-color: black;
+}
+
+p{
+    font-size: 20px;
+    color: rgb(31, 30, 30);
+    background-color: coral;
+}
+
+footer{
+    text-align: center;
+}
+a{
+    text-decoration: none;
+    color: crimson;
+    font-size: 40px;
+}
+
+a:hover{
+    transform: rotateX(360deg);
+    color: black;
+    background-color: white;
+    transition: 0.5s;
+}
